@@ -6,7 +6,7 @@ subtitle: PhD Student, <a href='https://www.hw.ac.uk/malaysia'>Heriot-Watt Unive
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>jqpoh2000@gmail.com</p>
