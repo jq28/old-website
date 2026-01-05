@@ -24,10 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a **PhD student** in Computer Science at Heriot-Watt University Malaysia, supervised by <a href='https://researchportal.hw.ac.uk/en/persons/john-see'>Dr. John See</a>. I obtained my B.Sc. degree (First Class Honours) in Statistical Data Science from Heriot-Watt University Malaysia in 2022.
+I am currently a **PhD student** in Computer Science at Heriot-Watt University Malaysia, supervised by <a href='https://johnsee.net/'>Dr. John See</a>. I obtained my B.Sc. degree (First Class Honours) in Statistical Data Science from Heriot-Watt University Malaysia in 2022.
 
-My research interests lie in **computer vision** and **deep learning** with a focus on multimodal emotion recognition, efficient transformers, and data-centric learning approaches.
+My research interests lie in **deep learning** and **computer vision**, with a focus on multimodal learning and affective computing.
 
-I am currently working on **curriculum learning for missing modalities** in multimodal emotion recognition and **continual learning approaches** for joint task-modality incremental scenarios.
+I am currently working on projects in **curriculum learning for missing modalities** in multimodal emotion recognition and **multimodal continual learning**.
 
-**I am actively seeking research internship opportunities in multimodal AI and affective computing.**
+**I am actively seeking research internship opportunities in AI research.**
